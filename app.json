@@ -1,13 +1,12 @@
 {
-  "name": "URL Uploader",
-  "description": "Telegram's Open Source URL Uploader Bot. Create your Fork now.",
+  "name": "AUTO RENAME",
+  "description": "Telegram's OpeN AUTO RENAME Bot. Create your Fork now.",
   "keywords": [
     "telegram",
     "url",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/TeleRoid_Hotstar_Bot",
-  "website": "https://github.com/P-Phreak",
+  
   "repository": "https://github.com/P-Phreak/URLuploader-With-Hotstar",
   "env": {
     "WEBHOOK": {
