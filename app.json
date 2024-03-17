@@ -6,8 +6,7 @@
     "url",
     "uploader"
   ],
-  
-  "repository": "https://github.com/P-Phreak/URLuploader-With-Hotstar",
+ 
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
